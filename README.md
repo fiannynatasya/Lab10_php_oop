@@ -4,10 +4,10 @@
 ## TI.21.B.1 ##
 
 ## MOBIL ##
-![Screenshot (104)](https://user-images.githubusercontent.com/94009296/205943674-ab36afa4-a84a-4afc-ab7c-1df8ec3c1ef3.png)
+![Screenshot (114)](https://user-images.githubusercontent.com/94009296/205944467-144032c4-6e8a-4a6c-954a-b498e15ecea2.png)
 
 ## INPUT ##
-![Screenshot (105)](https://user-images.githubusercontent.com/94009296/205943685-6535b5a2-53dd-4375-a396-40cf7023db11.png)
+![Screenshot (115)](https://user-images.githubusercontent.com/94009296/205944481-f8592865-852d-438a-8edc-b758a36ff46b.png)
 
 ## INPUT FORM ##
-![Screenshot (106)](https://user-images.githubusercontent.com/94009296/205943698-33d8b1be-63cf-4d55-9b7d-565f2e013c35.png)
+![Screenshot (116)](https://user-images.githubusercontent.com/94009296/205944490-37bd5bc7-cc73-4140-b0c0-05c4745d6181.png)
